@@ -9,3 +9,9 @@ Node message bus and web sockets PoC.
 * Navigate to /server/backend-api
 * Run >npm install
 * Run >npm start - to start Express API server
+
+3. Ports:
+* Client is on localhost:8890
+* Express REST API is on port 3001
+
+
